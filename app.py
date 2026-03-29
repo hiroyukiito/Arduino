@@ -1,8 +1,6 @@
 
 #Sinar大判デジタル撮影計算機
 
-pip install streamlit
-
 import math
 
 def sinar_p25_calculator():
